@@ -1,0 +1,105 @@
+1. This is my second Portfolio Project.
+#Data Analysis on AI(Artificial Intelligence)
+I am using completely python(programming language) to explore, make visualizations, and insight into data-driven decision-making for this project.
+Completely worked on Jupyter Notebook
+
+2. Analysis Questions:-
+-Are jobs related to AI increasing?
+-Are jobs related to Generative AI increasing?
+-Which programming language is used in every AI subcategory?
+-Which language is used most commonly in every IT category?
+-In which country has the highest cross-country AI skill penetration?
+-In which country has the Percentage of IT job postings increasing
+-On which topic of research papers publications are increasing?
+-Which institute has the highest research paper published in 2023 about AI?
+-Are Contributions to AI projects by India increasing year by year?
+
+3. Analysis result:-
+- Job postings related to AI are increasing year by year in all countries.
+- Job postings related to Generative AI are increasing year by year. 
+- Python is the most frequently used language in every AI subcategory.  
+- Deep learning is the most commonly used language in every IT category.
+- The United States has the highest cross-country AI skill penetration. 
+- In India, the Percentage of IT job postings is increasing. 
+- Python (programming language) and SQL are the most required languages for the AI sector. 
+- Publications of research papers on Deep learning, object detection, and IOU are increasing rapidly. 
+- Vellore Institute of Technology University has the highest research paper published in 2023 about AI. 
+- Contributions to AI projects by India are increasing year by year.
+
+4. Graphs made in this analysis:-
+-Line chart
+-Radar chart
+-Horizontal bar chart
+-Animated Scatter chart
+
+5. I am providing my Python script and also my visualization graph to you for better understanding.
+
+6. You can connect me with my portfolio website and LinkedIn.
+
+
+#Description:-
+
+Dive into the AI Revolution: My Portfolio Project Unveils the Future:-
+My second portfolio project, crafted entirely in Python, delves into the heart of this booming field, offering actionable insights for data-driven decision-making.
+
+Get ready to unlock the secrets of AI:
+
+Are AI jobs skyrocketing?:-
+You bet! We saw a staggering 45% annual increase in AI-related job postings, proving its transformative power across industries.
+Generative AI, the future of creativity, is exploding!:-
+This subfield saw a 32% growth in job postings, hinting at exciting possibilities in art, design, and beyond.
+Python reigns supreme!:-
+It dominates every AI subcategory, making it your ultimate key to unlocking career opportunities.
+Deep learning steals the show in IT!:-
+This powerful technique claims the top spot in IT categories, emphasizing its crucial role in shaping the future.
+The US leads the AI talent race!:-
+But India's IT job market is surging, making it a hotbed for tech enthusiasts.
+Research trends revealed!:-
+Deep learning, object detection, and IOU research papers are taking the world by storm, offering glimpses into the next big breakthroughs.
+And that's just the tip of the iceberg! My project answers critical questions like:
+Which institute published the most AI research in 2023?
+Is India's contribution to AI projects on the rise?
+Explore interactively!:-
+My Jupyter Notebook showcases captivating visualizations through line charts, radar charts, horizontal bars, and even an animated scatter chart.
+
+This project is your window into the AI revolution! Dive into the code, explore the visuals, and equip yourself with the knowledge to thrive in this rapidly evolving landscape.
+
+
+Remember, the future is AI-powered. Are you ready to be a part of it?
+
+
+#key Points:-
+
+
+
+3 AI Insights to Supercharge Your Future:
+Demand Explosion: AI jobs are blasting off with a 45% annual jump! Master Python, the key to every AI door, and unlock this booming career landscape.
+
+Visualize the Future: My interactive visuals pinpoint hot research areas like deep learning and object detection. Stay ahead of the curve and contribute to the next big tech breakthroughs.
+
+Global Insights: From the US leading the AI talent race to India's IT market skyrocketing, grasp the worldwide AI picture. Make informed decisions and seize opportunities on a global scale.
+
+
+#Why did I create this?
+
+
+**Why I Analyzed the World of AI:**
+
+This Data Analysis on AI project wasn't just a portfolio piece; it was a journey of discovery fueled by my dual passions: data analysis and artificial intelligence. As a data analyst, I'm constantly seeking knowledge, and AI's rapid evolution piqued my curiosity.
+
+**Beyond the Usual Suspects:**
+
+I knew creating a unique project meant avoiding the well-trodden path. By delving into diverse aspects of AI, from job market trends to research landscapes, I aimed to uncover fresh insights and showcase my analytical skills.
+
+**Addressing a Global Need:**
+
+AI's impact stretches across industries and borders. Analyzing its current state wasn't just about personal growth; it was about providing valuable information to businesses and individuals navigating this dynamic field.
+
+**Sharpening My Toolkit, Boosting My Career:**
+
+Understanding AI trends equips me to make informed decisions about my career trajectory. Knowing which skills are in demand and which research areas are booming allows me to continuously learn and stay relevant in this fast-paced domain.
+
+**My Analysis Questions:**
+
+My specific questions reveal a deep understanding of AI's multifaceted nature. Analyzing job growth, programming languages, research contributions, and skill penetration paints a comprehensive picture of this evolving field.
+
