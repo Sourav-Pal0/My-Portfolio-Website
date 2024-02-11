@@ -34,20 +34,15 @@ My Portfolio Project: A Code-Cracking Journey!
 
 "Why did I create this portfolio project?" you ask. Well, buckle up, because it's more than just showcasing my work! It's a story of transformation, adaptability, and embracing challenges.
 
-**From Zero to Hero: Cracking the Code:**
-As a data analyst, numbers are my friends, but code? Not so much. Until now. Building this entire portfolio website from scratch was a thrilling adventure. It wasn't just about the final product; it was about pushing my boundaries, proving my adaptability, and igniting a passion for learning something entirely new.
+**From Zero to Hero: Cracking the Code:** As a data analyst, numbers are my friends, but code? Not so much. Until now. Building this entire portfolio website from scratch was a thrilling adventure. It wasn't just about the final product; it was about pushing my boundaries, proving my adaptability, and igniting a passion for learning something entirely new.
 
-**More Than Just Projects, It's Me:**
-Sure, my projects are important, but so is my story. This website isn't just a display case; it's a window into my creativity, enthusiasm, and willingness to learn. Adding engaging details, captivating images, and even a video "About Me" section allowed me to express myself uniquely, making it more than just a portfolio, but a true reflection of who I am.
+**More Than Just Projects, It's Me:** Sure, my projects are important, but so is my story. This website isn't just a display case; it's a window into my creativity, enthusiasm, and willingness to learn. Adding engaging details, captivating images, and even a video "About Me" section allowed me to express myself uniquely, making it more than just a portfolio, but a true reflection of who I am.
 
-**Beyond the Basics, Diving Deeper:**
-And it doesn't stop there! Each project has its dedicated page within the website, also coded by yours truly. This allows me to delve deeper, showcase intricate details, and offer a truly immersive experience. It's not just about ticking the boxes; it's about demonstrating my dedication and thoroughness.
+**Beyond the Basics, Diving Deeper:** And it doesn't stop there! Each project has its dedicated page within the website, also coded by yours truly. This allows me to delve deeper, showcase intricate details, and offer a truly immersive experience. It's not just about ticking the boxes; it's about demonstrating my dedication and thoroughness.
 
-**Data + Code: A Powerful Combination:**
-As a data analyst, understanding code opens doors. It allows me to better utilize data visualization tools, collaborate with developers more effectively, and even potentially explore new career paths. This project wasn't just about personal growth; it was about investing in my future and expanding my skill set.
+**Data + Code: A Powerful Combination:** As a data analyst, understanding code opens doors. It allows me to better utilize data visualization tools, collaborate with developers more effectively, and even potentially explore new career paths. This project wasn't just about personal growth; it was about investing in my future and expanding my skill set.
 
-**A Requirement & a Passion Project:**
-In today's world, a strong online presence is essential, and a well-crafted portfolio website is a key element. But for me, this wasn't just a requirement; it was a passion project, fueled by my desire to learn, create, and showcase my potential.
+**A Requirement & a Passion Project:** In today's world, a strong online presence is essential, and a well-crafted portfolio website is a key element. But for me, this wasn't just a requirement; it was a passion project, fueled by my desire to learn, create, and showcase my potential.
 
 This portfolio project is more than just a collection of my work; it's a tangible representation of my growth, adaptability, and unwavering commitment to personal and professional development. It's an invitation to explore my journey and discover what I can bring to the table.
 
@@ -55,7 +50,7 @@ So, are you ready to dive in?
 
 # Link: https://sourav-pal0.github.io/My-Portfolio-Website/
 
-# Screenshot:
+# Preview:
 ![1](https://github.com/Sourav-Pal0/My-Portfolio-Website/assets/156578280/64bb5ce6-b5f4-4868-9ee2-b8c087c25f86)
 ![2](https://github.com/Sourav-Pal0/My-Portfolio-Website/assets/156578280/c0ae7efc-37e1-40d0-8d89-7c4d5e1722b2)
 ![3](https://github.com/Sourav-Pal0/My-Portfolio-Website/assets/156578280/82ef4ab1-801c-45e4-9a94-c38e4507d995)
